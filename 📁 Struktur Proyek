@@ -6,5 +6,5 @@ telegram-premium-bot/
 ├── logger.py              # Sistem logging
 ├── utils.py               # Fungsi utilitas
 ├── requirements.txt       # Dependensi
-├── .env                   # File environment
+├── config.env             # File environment
 └── README.md
