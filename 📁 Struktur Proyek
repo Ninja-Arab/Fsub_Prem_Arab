@@ -1,0 +1,10 @@
+telegram-premium-bot/
+│
+├── bot.py                 # File utama bot
+├── config.py              # Konfigurasi
+├── database.py            # Database dan model
+├── logger.py              # Sistem logging
+├── utils.py               # Fungsi utilitas
+├── requirements.txt       # Dependensi
+├── .env                   # File environment
+└── README.md
