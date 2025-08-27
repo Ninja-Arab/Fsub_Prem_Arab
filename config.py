@@ -10,8 +10,7 @@ PROTECTED_CHANNEL = os.getenv("PROTECTED_CHANNEL")
 NOTIFICATION_CHANNEL = os.getenv("NOTIFICATION_CHANNEL")
 
 # Database Configuration
-DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///bot.db")
-
+DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///bot.dbmongodb+srv://katakkatak182:Indonesia12@cluster0.xys4sfb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 # Subscription Configuration
 DEFAULT_SUB_DAYS = int(os.getenv("DEFAULT_SUB_DAYS", "30"))
 
